@@ -7,7 +7,7 @@ Web Developer and Designer
 
 * 🌍  I'm based in Tripoli, Lebanon.
 * ✉️  You can contact me at [moaazo@outlook.sa](mailto:moaazo@outlook.sa)
-* 🧠  I'm learning a new materials in front-end and backend development.
+* 🧠  I learn a new materials every day.
 * 🤝  I'm open to collaborating on interesting projects.
 
 ### Skills
