@@ -4,11 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Designer
 --------------------------
 
-I've been learning to code for 5 years, after switching careers. I started with Python, but have really found a passion for front-end development...
-
 * 🌍  I'm based in Tripoli, Lebanon.
 * ✉️  You can contact me at [moaazo@outlook.sa](mailto:moaazo@outlook.sa)
-* 🧠  I'm learning a new materials in front-end and backend development.
+* 🧠  I'm learning a new materials in web development.
 * 🤝  I'm open to collaborating on interesting projects.
 
 ### Skills
