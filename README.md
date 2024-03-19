@@ -8,6 +8,7 @@ Web Developer
 * ✉️  You can contact me at [moaazo@outlook.sa](mailto:moaazo@outlook.sa)
 * 🤝  I'm open to collaborating on interesting projects.
 <!-- * 🧠  I'm learning a new materials in web development. -->
+![](https://hit.yhype.me/github/profile?user_id=68660967)
 
 ### Skills
 
