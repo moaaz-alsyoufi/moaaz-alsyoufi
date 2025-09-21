@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 --------------------------
 
-* 🌍  I'm based in Tripoli, Lebanon.
+* 🌍  I'm based in Homs, Syria.
 * ✉️  You can contact me at [moaazo@outlook.sa](mailto:moaazo@outlook.sa)
 * 🤝  I'm open to collaborating on interesting projects.
 <!-- * 🧠  I'm learning a new materials in web development. -->
