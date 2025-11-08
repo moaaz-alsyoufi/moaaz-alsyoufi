@@ -5,7 +5,7 @@ Web Developer
 --------------------------
 
 * 🌍  I'm based in Homs, Syria.
-* ✉️  You can contact me at [moaazo@outlook.sa](mailto:moaazo@outlook.sa)
+* ✉️  You can contact me at [alsyoufi.moaaz@gmail.com](alsyoufi.moaaz@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects.
 <!-- * 🧠  I'm learning a new materials in web development. -->
 
