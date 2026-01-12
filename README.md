@@ -1,63 +1,174 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Moaaz
-=============================================================================================================================
+<h1 align="center">Hi 👋, I'm Moaaz Alsyoufi</h1>
 
-Web Developer
---------------------------
+<h3 align="center">
+Senior Full-Stack Software Engineer • SaaS & Enterprise Systems Architect
+</h3>
 
-* 🌍  I'm based in Homs, Syria.
-* ✉️  You can contact me at [alsyoufi.moaaz@gmail.com](alsyoufi.moaaz@gmail.com)
-* 🤝  I'm open to collaborating on interesting projects.
-<!-- * 🧠  I'm learning a new materials in web development. -->
-
-### Skills
-
-<p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<!-- <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a> -->
-<!-- <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a> -->
-<!-- <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a> -->
-<!-- <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a> -->
-<!-- <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a> -->
+<p align="center">
+I design and build scalable, production-ready web platforms — from complex enterprise systems to modern SaaS products — with a strong focus on performance, maintainability, and real business needs.
 </p>
 
-### Socials
-
-<p align="left"> 
-  <a href="https://www.linkedin.com/in/moaaz-alsyoufi-1053a523a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  <a href="https://www.facebook.com/moaaz.alsyoufi1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-  <a href="http://www.instagram.com/moaaz_alsyoufi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-  <a href="https://www.twitter.com/moaaz_alsyoufi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-  <a href="https://www.codepen.io/moaaz_alsyoufi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
-<!--   <a href="https://www.github.com/moaaz-alsyoufi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> -->
-  <a href="https://discord.com/users/moaaz_alsyoufi#1910" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-  <a href="https://www.dribbble.com/moaaz_alsyoufi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a>
+<p align="center">
+📍 Homs, Syria
+&nbsp;•&nbsp;
+🌍 Remote
 </p>
 
-### Badges
+<p align="center">
+🌐 <a href="https://www.moaazalsyoufi.com"><b>View Portfolio</b></a>
+</p>
 
-<b>My GitHub Stats</b>
+---
 
-<!--
-<a href="http://www.github.com/moaaz-alsyoufi" ><img src="https://github-readme-stats.vercel.app/api?username=moaaz-alsyoufi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="moaaz-alsyoufi's GitHub stats" /></a>
--->
-<a href="http://www.github.com/moaaz-alsyoufi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=moaaz-alsyoufi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## 🧠 About Me
 
-<!--
-<a href="http://www.github.com/moaaz-alsyoufi"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=moaaz-alsyoufi&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
--->
-<a href="https://github.com/moaaz-alsyoufi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moaaz-alsyoufi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-![](https://hit.yhype.me/github/profile?user_id=68660967)
+▸ 💼 **Senior Full-Stack Developer**  
+Hands-on experience in **enterprise management systems**, **SaaS platforms**, and **multi-role applications**
+
+▸ 🏗️ **Business-to-Software Translator**  
+Turning complex workflows into clean, reliable software
+
+▸ 🌐 **Scalable Systems Builder**  
+Strong experience with **multilingual**, **role-based**, and **data-intensive** systems
+
+▸ ⚙️ **End-to-End Ownership**  
+Architecture, frontend, backend, databases, deployment, and production delivery
+
+▸ 🚀 **SaaS-Oriented Mindset**  
+Experience with subscription systems, admin dashboards, analytics, and production launches
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+
+![Frontend](https://skills.syvixor.com/api/icons?i=react,vite,angular,typescript,javascript,tailwind,materialui,html,css)
+
+---
+
+### ⚙️ Backend
+
+![Backend](https://skills.syvixor.com/api/icons?i=nodejs,express,dotnet,rest,auth)
+
+---
+
+### 🗄️ Databases
+
+![Databases](https://skills.syvixor.com/api/icons?i=sqlserver,mysql,postgresql,prisma,supabase)
+
+---
+
+### ☁️ Cloud, Hosting & DevOps
+
+![Cloud](https://skills.syvixor.com/api/icons?i=vercel,render,cloudflare,docker,neon)
+
+---
+
+### 🧰 Tools, Platforms & Workflow
+
+![Tools](https://skills.syvixor.com/api/icons?i=git,github,firebase,emailjs,capacitor,figma,clickup,cmder,postman)
+
+---
+
+### 📈 Performance, SEO & Delivery
+
+- SEO-friendly architectures (SSR / SSG awareness)
+- Performance optimization & Lighthouse tuning
+- Domain & hosting management (Namecheap)
+
+---
+
+## 🚀 Featured Projects
+
+> Selected real-world systems I’ve worked on (enterprise & SaaS level):
+
+### 🔹 Menuify QR — Digital Menu SaaS Platform
+
+- Multi-language digital menus
+- QR-based access
+- Admin & owner dashboards
+- Subscription-ready SaaS architecture
+
+---
+
+### 🔹 SAM — Subcontractors Administrative Management System
+
+- Full enterprise workflow system
+- Contract & subcontractor management
+- Complex role-based access
+- Built for real operational use
+
+---
+
+### 🔹 TOM — Tendering Operations Manager
+
+- Tender lifecycle management
+- Data-driven decision workflows
+- Angular + ASP.NET Core stack
+
+---
+
+### 🔹 PAM — Purchasing Administrative Management System
+
+- Internal purchasing workflows
+- Secure data handling
+- React + ASP.NET Core architecture
+
+---
+
+### 🔹 ACF Portal — African Cement Factory
+
+- Web platform + Android application
+- Live order tracking on map
+- Real-time chat between customers & drivers
+- End-to-end logistics monitoring
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=moaaz-alsyoufi&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🤝 Let’s Build Something Together
+
+I’m open to **collaboration, consulting, and long-term partnerships** on  
+**SaaS platforms**, **enterprise systems**, and **scalable web applications**.
+
+If you’re a **founder, company, or team** looking for a senior engineer who can turn complex ideas into reliable production systems — let’s talk.
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/moaaz-alsyoufi/">
+    <img src="https://skills.syvixor.com/api/icons?i=linkedin" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/moaaz-alsyoufi">
+    <img src="https://skills.syvixor.com/api/icons?i=github" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:alsyoufi.moaaz@gmail.com">
+    <img src="https://skills.syvixor.com/api/icons?i=gmail" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/moaaz_alsyoufi">
+    <img src="https://skills.syvixor.com/api/icons?i=instagram" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.moaazalsyoufi.com">
+    <img src="https://skills.syvixor.com/api/icons?i=chrome" height="30"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Clean architecture, clear logic, and software that actually solves problems.”</i>
+</p>
