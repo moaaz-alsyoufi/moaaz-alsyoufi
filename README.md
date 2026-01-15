@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Moaaz Alsyoufi</h1>
 
+<p align="center">
+  <a href="https://user-badge.committers.top/syria_private/moaaz-alsyoufi">
+    <img src="https://user-badge.committers.top/syria_private/moaaz-alsyoufi.svg" alt="committers.top badge" />
+  </a>
+</p>
+
 <h3 align="center">
 Senior Full-Stack Software Engineer • SaaS & Enterprise Systems Architect
 </h3>
