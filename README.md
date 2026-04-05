@@ -89,11 +89,25 @@ Experience with subscription systems, admin dashboards, analytics, and productio
 
 > Selected real-world systems I’ve worked on (enterprise & SaaS level):
 
-### 🔹 Menuify QR — Digital Menu SaaS Platform
+### 🔹 DAR — Publishing Operations & Production System
 
-- Multi-language digital menus
+- Full enterprise-grade publishing management platform
+- Covers complete lifecycle from book intake → production → financial settlement
+- Modular architecture:
+  - Books, Authors, Topics management
+  - Work Stages tracking with assignees, timelines, and costs
+  - Payments system with due/paid/remaining calculations
+- Strong RBAC system with audit-friendly structure
+- Built for data-heavy workflows and operational clarity
+- Production-ready architecture with focus on scalability and maintainability
+
+---
+
+### 🔹 Menuify QR — Digital Menu & E-Commerce SaaS Platform
+
+- Multi-language digital menus / online stores
 - QR-based access
-- Admin & owner dashboards
+- Admin & owner & staff dashboards
 - Subscription-ready SaaS architecture
 
 ---
