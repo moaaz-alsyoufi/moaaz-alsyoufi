@@ -108,6 +108,7 @@ Experience with subscription systems, admin dashboards, analytics, and productio
 - Enables restaurants to present menus and receive orders directly without native apps
 - Multi-language support and optimized customer browsing experience
 - Multi-role dashboards (admin, business owner, staff)
+  
 ▸ New Department (In Development):
 - Expanding into a full e-commerce platform
 - Supports complete online ordering flows beyond WhatsApp
