@@ -87,62 +87,68 @@ Experience with subscription systems, admin dashboards, analytics, and productio
 
 ## 🚀 Featured Projects
 
-> Selected real-world systems I’ve worked on (enterprise & SaaS level):
+> Selected real-world systems I’ve designed and developed (enterprise & SaaS level):
 
 ### 🔹 DAR — Publishing Operations & Production System
 
-- Full enterprise-grade publishing management platform
-- Covers complete lifecycle from book intake → production → financial settlement
+- Enterprise-grade publishing management platform covering the full lifecycle: book intake → production → financial settlement
 - Modular architecture:
   - Books, Authors, Topics management
-  - Work Stages tracking with assignees, timelines, and costs
-  - Payments system with due/paid/remaining calculations
-- Strong RBAC system with audit-friendly structure
-- Built for data-heavy workflows and operational clarity
-- Production-ready architecture with focus on scalability and maintainability
+  - Work stages tracking (assignments, timelines, costs)
+  - Integrated payments system (due, paid, remaining)
+- Role-Based Access Control (RBAC) with audit-ready structure
+- Designed for data-heavy workflows, traceability, and operational clarity
+- Scalable and maintainable architecture aligned with real business processes
 
 ---
 
 ### 🔹 Menuify QR — Digital Menu & E-Commerce SaaS Platform
 
-- Multi-language digital menus / online stores
-- QR-based access
-- Admin & owner & staff dashboards
-- Subscription-ready SaaS architecture
+- SaaS platform for QR-based digital menus and WhatsApp-based ordering
+- Enables restaurants to present menus and receive orders directly without native apps
+- Multi-language support and optimized customer browsing experience
+- Multi-role dashboards (admin, business owner, staff)
+▸ New Department (In Development):
+- Expanding into a full e-commerce platform
+- Supports complete online ordering flows beyond WhatsApp
+- Designed for multi-tenant SaaS architecture with scalable subscription plans
+- Focused on transforming Menuify into a comprehensive digital commerce solution for restaurants and small businesses
 
 ---
 
 ### 🔹 SAM — Subcontractors Administrative Management System
 
-- Full enterprise workflow system
-- Contract & subcontractor management
-- Complex role-based access
-- Built for real operational use
+- Enterprise system for managing subcontractors and contracts
+- Centralized tracking of subcontractor data, assignments, and operations
+- Fine-grained role-based access control
+- Built to support real organizational workflows and administrative processes
 
 ---
 
 ### 🔹 TOM — Tendering Operations Manager
 
-- Tender lifecycle management
-- Data-driven decision workflows
-- Angular + ASP.NET Core stack
+- Tender lifecycle management system from preparation to submission
+- Supports data-driven decision making and cost analysis
+- Spreadsheet-integrated workflows for complex calculations
+- Built with Angular and ASP.NET Core for structured enterprise usage
 
 ---
 
 ### 🔹 PAM — Purchasing Administrative Management System
 
-- Internal purchasing workflows
-- Secure data handling
-- React + ASP.NET Core architecture
+- Internal procurement and purchasing workflow system
+- Manages purchase requests, approvals, and supplier interactions
+- Focus on data integrity, control, and process standardization
+- Built with React and ASP.NET Core
 
 ---
 
 ### 🔹 ACF Portal — African Cement Factory
 
-- Web platform + Android application
-- Live order tracking on map
-- Real-time chat between customers & drivers
-- End-to-end logistics monitoring
+- Full logistics platform (Web + Android)
+- Real-time order tracking using live map integration
+- Live chat between customers and drivers
+- End-to-end visibility of delivery operations and logistics flow
 
 ---
 
