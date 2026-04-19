@@ -77,6 +77,15 @@ Experience with subscription systems, admin dashboards, analytics, and productio
 
 ---
 
+## 📊 GitHub Stats
+<p align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=moaaz-alsyoufi&theme=transparent)](https://git.io/streak-stats)
+
+</p>
+
+---
+
 ### 📈 Performance, SEO & Delivery
 
 - SEO-friendly architectures (SSR / SSG awareness)
@@ -195,7 +204,6 @@ If you’re a **founder, company, or team** looking for a senior engineer who ca
 </p>
 
 ---
-
 <p align="center">
   <i>“Clean architecture, clear logic, and software that actually solves problems.”</i>
 </p>
